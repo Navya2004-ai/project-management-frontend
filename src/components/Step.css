@@ -1,0 +1,87 @@
+.step-container {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 30px;
+  border-radius: 12px;
+  background: #fefefe;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-family: "Segoe UI", sans-serif;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 10px;
+  background-color: #eee;
+  border-radius: 5px;
+  margin-bottom: 30px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background-color: #4caf50;
+  transition: width 0.3s ease;
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 25px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  font-weight: 600;
+  display: block;
+  margin-bottom: 5px;
+}
+
+label span {
+  color: red;
+}
+
+input {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+.error {
+  color: red;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.button-group {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  border: none;
+}
+
+.btn-back {
+  background-color: #4caf50;
+  color: white;
+}
+
+.btn-next {
+  background-color: #4caf50;
+  color: white;
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
