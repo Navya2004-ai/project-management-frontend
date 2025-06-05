@@ -23,16 +23,16 @@ http://localhost:3000
  ## Screenshots
 
 ### Step 1: Personal Info
-(./screenshot/ personal_info.jpg.png)
+(./screenshots/ personal_info.jpg.png)
 
 ### Step 2: Business Info
-(./screenshot/Business_info.jpg.png)
+(./screenshots/Business_info.jpg.png)
 
 ### Step 3: Preferences
-(./screenshot/preferences.jpg.png)
+(./screenshots/preferences.jpg.png)
 
 ### Dashboard
-(./screenshot/Dashboard.jpg.png)
+(./screenshots/Dashboard.jpg.png)
 
 ----
 
