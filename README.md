@@ -1,3 +1,42 @@
+## 🚀 Technology Stack Used
+
+- React.js – For building the interactive user interface.
+- React Router DOM – To manage routing between onboarding and dashboard pages.
+- CSS / Basic CSS – For styling and responsive design.
+- Local Storage – To save user data persistently on the browser.
+- Recharts (optional) – To display charts on the dashboard.
+- React Toastify (optional) – For notification messages.
+
+---
+
+## 📦set up Instructions
+1. Clone the repository:
+```bash
+git clone https://github.com/Navya2004-ai/project-management-frontend.git
+cd project-management-frontend
+npm install
+npm start
+http://localhost:3000
+
+---
+
+ ## Screenshots
+
+### Step 1: Personal Info
+(./screenshot/ personal_info.jpg.png)
+
+### Step 2: Business Info
+(./screenshot/Business_info.jpg.png)
+
+### Step 3: Preferences
+(./screenshot/preferences.jpg.png)
+
+### Dashboard
+(./screenshot/Dashboard.jpg.png)
+
+----
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
